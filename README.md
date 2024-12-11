@@ -101,8 +101,9 @@ This project provides a complete pipeline for credit loan analysis, from data cl
 
 ## Contributors
 
-Developed by [FantacherJOY](https://github.com/FantacherJOY), [Mushaer Ahmed](https://github.com/mushaerahmed), and [Md MUzahid Khan](https://github.com/Khan10061646) for our group project.
+Developed by [FantacherJOY](https://github.com/FantacherJOY), [Mushaer Ahmed](https://github.com/mushaerahmed), and [Md Muzahid Khan](https://github.com/Khan10061646) for our group project.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
