@@ -1,4 +1,4 @@
-# Loan delinquency Analysis and Modeling
+# Credit Loan Analysis and Modeling
 
 This repository contains a comprehensive set of resources, including notebooks, data, and visualizations, designed to analyze and model credit loan data. The project leverages advanced data analysis techniques, machine learning models, clustering methods, and association rule mining to derive insights and build predictive models for credit risk assessment.
 
